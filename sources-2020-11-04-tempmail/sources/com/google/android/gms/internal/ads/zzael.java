@@ -1,0 +1,42 @@
+package com.google.android.gms.internal.ads;
+
+import android.os.Bundle;
+import android.os.IInterface;
+import android.os.RemoteException;
+import com.google.android.gms.dynamic.IObjectWrapper;
+import java.util.List;
+
+/* compiled from: com.google.android.gms:play-services-ads-lite@@19.2.0 */
+public interface zzael extends IInterface {
+    boolean A(Bundle bundle) throws RemoteException;
+
+    void F(Bundle bundle) throws RemoteException;
+
+    void destroy() throws RemoteException;
+
+    String e() throws RemoteException;
+
+    IObjectWrapper f() throws RemoteException;
+
+    zzadl g() throws RemoteException;
+
+    Bundle getExtras() throws RemoteException;
+
+    String getMediationAdapterClassName() throws RemoteException;
+
+    zzyi getVideoController() throws RemoteException;
+
+    String i() throws RemoteException;
+
+    String j() throws RemoteException;
+
+    List k() throws RemoteException;
+
+    zzadt n0() throws RemoteException;
+
+    IObjectWrapper o() throws RemoteException;
+
+    String q() throws RemoteException;
+
+    void u(Bundle bundle) throws RemoteException;
+}

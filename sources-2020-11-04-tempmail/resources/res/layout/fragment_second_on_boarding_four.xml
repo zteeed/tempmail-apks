@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:tag="layout/fragment_second_on_boarding_four_0" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ImageView android:id="@+id/ivOnBoardingPicture" android:scaleType="fitEnd" app:srcCompat="@drawable/ic_page4" style="@style/secondOnBoardingImageViewStyle.Picture"/>
+    <TextView android:id="@+id/tvTitle" android:text="@string/second_onboarding_page_4_title" app:layout_constraintBottom_toTopOf="@+id/tvMessage" style="@style/onboardingTitleStyle"/>
+    <TextView android:id="@+id/tvMessage" android:text="@string/second_onboarding_page_4_text" app:layout_constraintBottom_toBottomOf="0" style="@style/onboardingMessageStyle"/>
+    <ImageView android:id="@+id/ivClose" android:layout_width="28dp" android:layout_height="28dp" android:layout_marginTop="8dp" android:layout_marginStart="16dp" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" style="@style/ivCloseStyle"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_change_margin_top">50dp</dimen>
+    <dimen name="button_check_email_margin_top">25dp</dimen>
+    <dimen name="button_copy_margin_top">40dp</dimen>
+    <dimen name="change_button_text_size">28sp</dimen>
+    <dimen name="cloud_height">240dp</dimen>
+    <dimen name="mailbox_tv_tip_margin_top">40dp</dimen>
+    <dimen name="mailbox_tv_tip_text_size">48sp</dimen>
+    <dimen name="tv_tip_margin_top">40dp</dimen>
+</resources>
