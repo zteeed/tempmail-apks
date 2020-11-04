@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_white_color">@android:color/white</color>
+    <color name="btnBlue">@color/clouds_tint</color>
+    <color name="button_text_color">#ffffff</color>
+    <color name="clouds_tint">#585d6a</color>
+    <color name="colorPrimaryDark">#22242a</color>
+    <color name="empty_white_color">#ffffff</color>
+    <color name="gray_text_color">#ffffff</color>
+    <color name="main_background">#000000</color>
+    <color name="main_background_gray_color">#333333</color>
+    <color name="menuIconTintColor">@android:color/white</color>
+    <color name="premium_discount_color">@android:color/white</color>
+    <color name="premium_not_selected_btn_background">@color/gray_strong</color>
+    <color name="qr_code_tint_color">#ffffff</color>
+    <color name="text_color">#ffffff</color>
+    <color name="text_color_email_address">#ffffff</color>
+    <color name="toolbarColor">#454545</color>
+    <color name="white_black_color">#22242a</color>
+</resources>

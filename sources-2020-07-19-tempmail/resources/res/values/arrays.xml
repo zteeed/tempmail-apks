@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="billing_periods">
+        <item>1w</item>
+        <item>1m</item>
+        <item>3m</item>
+        <item>6m</item>
+        <item>12m</item>
+    </array>
+    <array name="covered_languages_app">
+        <item>ar</item>
+        <item>cs</item>
+        <item>da</item>
+        <item>de</item>
+        <item>el</item>
+        <item>en</item>
+        <item>es</item>
+        <item>fa</item>
+        <item>fi</item>
+        <item>fr</item>
+        <item>hu</item>
+        <item>in</item>
+        <item>it</item>
+        <item>ja</item>
+        <item>ko</item>
+        <item>nb</item>
+        <item>nl</item>
+        <item>no</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>ro</item>
+        <item>ru</item>
+        <item>sr</item>
+        <item>sv</item>
+        <item>th</item>
+        <item>tr</item>
+        <item>uk</item>
+        <item>vi</item>
+        <item>zh</item>
+    </array>
+    <array name="covered_languages_website">
+        <item>ar</item>
+        <item>de</item>
+        <item>es</item>
+        <item>en</item>
+        <item>fr</item>
+        <item>it</item>
+        <item>nl</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>sr</item>
+        <item>tr</item>
+        <item>uk</item>
+        <item>ku</item>
+        <item>ru</item>
+        <item>zh</item>
+        <item>cs</item>
+        <item>da</item>
+        <item>fi</item>
+        <item>el</item>
+        <item>hu</item>
+        <item>id</item>
+        <item>ja</item>
+        <item>ko</item>
+        <item>no</item>
+        <item>fa</item>
+        <item>ro</item>
+        <item>sv</item>
+        <item>th</item>
+        <item>vi</item>
+    </array>
+</resources>

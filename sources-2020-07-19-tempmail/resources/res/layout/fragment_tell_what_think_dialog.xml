@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/linearLayout" android:tag="layout/fragment_tell_what_think_dialog_0" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:id="@+id/tvTitle" android:text="@string/tell_dialog_title" style="@style/rating_dialogs_style"/>
+    <TextView android:id="@+id/tvSubTitle" style="@style/rating_dialog_subtitle"/>
+    <View android:id="@+id/line" style="@style/rating_dialog_horizontal_line"/>
+    <TextView android:id="@+id/good" android:text="@string/tell_dialog_good" app:layout_constraintEnd_toStartOf="@+id/line2" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/line" style="@style/rating_dialog_button"/>
+    <View android:id="@+id/line2" app:layout_constraintBottom_toBottomOf="@+id/good" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/line" style="@style/rating_dialog_vertical_line"/>
+    <TextView android:id="@+id/bad" android:text="@string/tell_dialog_bad" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toEndOf="@+id/line2" app:layout_constraintTop_toBottomOf="@+id/line" style="@style/rating_dialog_button"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btn_action_premium_padding">10dp</dimen>
+    <dimen name="btn_action_premium_padding_side">25dp</dimen>
+    <dimen name="btn_premium_padding">16dp</dimen>
+    <dimen name="btn_premium_padding_side">10dp</dimen>
+    <dimen name="change_button_text_size">14sp</dimen>
+    <dimen name="copy_edit_button_text_size">16sp</dimen>
+    <dimen name="data_error_refresh_text_size">16sp</dimen>
+    <dimen name="iv_premium_logo_margin_top">4dp</dimen>
+    <dimen name="iv_qr_code_margin">16dp</dimen>
+    <dimen name="ll_premium_reason_margin_top">12dp</dimen>
+    <dimen name="premium_screen_btn_close_margin">20dp</dimen>
+    <dimen name="reason_views_horizontal_margin">40dp</dimen>
+    <dimen name="tv_email_text_size">22sp</dimen>
+    <dimen name="tv_premium_text_size">14sp</dimen>
+    <dimen name="tv_restore_purchase_text_size">17sp</dimen>
+    <dimen name="tv_subtitle_text_size">18sp</dimen>
+    <dimen name="tv_tip_text_size">24sp</dimen>
+    <dimen name="tv_title_premium_text_size">20sp</dimen>
+    <dimen name="tv_tos_title_margin_top">16dp</dimen>
+    <dimen name="tv_why_ad_margin_top">32dp</dimen>
+    <dimen name="tv_why_premium_margin_top">24dp</dimen>
+    <dimen name="vertical_barrier_premium_margin_end">8dp</dimen>
+</resources>

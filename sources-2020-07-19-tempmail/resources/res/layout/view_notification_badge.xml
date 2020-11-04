@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ImageView android:gravity="center" android:layout_gravity="top|center_vertical|center_horizontal|center" android:id="@+id/badge" android:padding="3dp" android:layout_width="23dp" android:layout_height="23dp" android:layout_marginLeft="10dp" android:contentDescription="@string/notification_badge" android:layout_marginStart="10dp" app:srcCompat="@drawable/notification_badge"/>
+    <TextView android:textSize="12sp" android:textColor="@android:color/white" android:gravity="center" android:layout_gravity="top|center_vertical|center_horizontal|center" android:id="@+id/tvCount" android:layout_width="23dp" android:layout_height="23dp" android:layout_marginLeft="10dp" android:text="1" android:layout_marginStart="10dp"/>
+</FrameLayout>

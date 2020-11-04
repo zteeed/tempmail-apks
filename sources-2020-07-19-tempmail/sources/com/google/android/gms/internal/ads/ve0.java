@@ -1,0 +1,16 @@
+package com.google.android.gms.internal.ads;
+
+/* compiled from: com.google.android.gms:play-services-ads@@19.2.0 */
+final class ve0 {
+
+    /* renamed from: a  reason: collision with root package name */
+    final int f5140a;
+
+    /* renamed from: b  reason: collision with root package name */
+    final int f5141b;
+
+    ve0(zzri zzri, int i, int i2) {
+        this.f5140a = i;
+        this.f5141b = i2;
+    }
+}

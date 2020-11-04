@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/constraintMain" android:tag="layout/fragment_tell_what_think_dialog_new_0" android:background="@drawable/rect_white_rounded_borders" android:padding="@dimen/activity_vertical_margin" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <TextView android:id="@+id/tvTitle" android:text="@string/tell_dialog_title" app:fontFamily="sans-serif-medium" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" style="@style/adDialogTitleStyle"/>
+    <TextView android:id="@+id/tvSubTitle" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/tvTitle" style="@style/adDialogTitleMessage"/>
+    <LinearLayout android:id="@+id/llButtonsHorizontal" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/tvSubTitle" app:layout_constraintVertical_bias="0" style="@style/llButtonsHorizontalStyle">
+        <TextView android:id="@+id/tvNo" android:layout_marginRight="8dp" android:text="@string/tell_dialog_bad" android:layout_marginEnd="8dp" style="@style/tvDialogButtons.no"/>
+        <TextView android:id="@+id/tvYes" android:text="@string/tell_dialog_good" style="@style/tvDialogButtons.yes"/>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

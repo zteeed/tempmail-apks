@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_alert_dialog_button_bar_height">54dp</dimen>
+    <dimen name="button_change_margin_top">40dp</dimen>
+    <dimen name="button_edit_margin_top">18dp</dimen>
+    <dimen name="cloud_height">220dp</dimen>
+    <dimen name="tv_tip_margin_top">30dp</dimen>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:icon="@drawable/ic_mail" android:id="@+id/email_address" android:title="@string/current_address_tab_title" app:showAsAction="ifRoom"/>
+    <item android:icon="@drawable/ic_inbox" android:id="@+id/inbox" android:title="@string/inbox_view_title" app:showAsAction="ifRoom"/>
+    <item android:icon="@drawable/ic_exchange" android:id="@+id/switch_email" android:title="@string/switch_address_title" app:showAsAction="ifRoom"/>
+</menu>

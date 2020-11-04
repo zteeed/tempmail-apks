@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="btn_premium_padding_side">16dp</dimen>
+    <dimen name="change_button_text_size">16sp</dimen>
+    <dimen name="copy_edit_button_text_size">17sp</dimen>
+    <dimen name="create_email_margin">40dp</dimen>
+    <dimen name="onboarding_message_text_size">18sp</dimen>
+    <dimen name="onboarding_title_text_size">24sp</dimen>
+    <dimen name="premiumAdBtnSecondMarginTop">42dp</dimen>
+    <dimen name="premiumBtnSecondMarginTop">26dp</dimen>
+    <dimen name="premiumTitleMarginTop">32dp</dimen>
+    <dimen name="premium_screen_btn_close_margin">22dp</dimen>
+    <dimen name="reasonOneMarginTop">18dp</dimen>
+    <dimen name="tv_email_text_size">25sp</dimen>
+    <dimen name="tv_restore_purchase_margin_top">32dp</dimen>
+    <dimen name="tv_tip_text_size">30sp</dimen>
+</resources>

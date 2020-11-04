@@ -1,0 +1,27 @@
+package com.google.android.gms.internal.measurement;
+
+/* compiled from: com.google.android.gms:play-services-measurement-impl@@17.4.3 */
+public final class zzjd implements zzdj<zzjc> {
+
+    /* renamed from: c  reason: collision with root package name */
+    private static zzjd f9674c = new zzjd();
+
+    /* renamed from: b  reason: collision with root package name */
+    private final zzdj<zzjc> f9675b;
+
+    private zzjd(zzdj<zzjc> zzdj) {
+        this.f9675b = zzdm.a(zzdj);
+    }
+
+    public static boolean b() {
+        return ((zzjc) f9674c.a()).a();
+    }
+
+    public final /* synthetic */ Object a() {
+        return this.f9675b.a();
+    }
+
+    public zzjd() {
+        this(zzdm.b(new zzjf()));
+    }
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="copy_edit_button_text_size">24sp</dimen>
+    <dimen name="create_email_margin">110dp</dimen>
+    <dimen name="data_error_hint_text_size">18sp</dimen>
+    <dimen name="data_error_refresh_margin_end">12dp</dimen>
+    <dimen name="data_error_refresh_text_size">20sp</dimen>
+    <dimen name="data_error_text_size">32sp</dimen>
+    <dimen name="email_screen_horizontal_margin">96dp</dimen>
+    <dimen name="email_screen_vertical_margin">28dp</dimen>
+    <dimen name="premium_screen_horizontal_margin">96dp</dimen>
+    <dimen name="premium_screen_vertical_margin">96dp</dimen>
+    <dimen name="premium_screen_why_premium_margin">120dp</dimen>
+    <dimen name="premium_views_horizontal_margin">48dp</dimen>
+    <dimen name="tv_email_text_size">40sp</dimen>
+    <dimen name="tv_tip_text_size">54sp</dimen>
+</resources>

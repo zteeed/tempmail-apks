@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_change_margin_top">35dp</dimen>
+    <dimen name="button_check_email_margin_top">25dp</dimen>
+    <dimen name="button_edit_margin_top">16dp</dimen>
+    <dimen name="buttons_main_padding_vertical">22dp</dimen>
+    <dimen name="cloud_height">180dp</dimen>
+    <dimen name="tv_tip_margin_top">15dp</dimen>
+</resources>
